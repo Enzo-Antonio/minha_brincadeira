@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(255, 147, 147);
+}
+section {
+  background-color: white;
+}
+nav{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h5{
+  text-align: center;
+}
+hr{
+    border-color: black;
+}
